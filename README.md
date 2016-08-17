@@ -1,6 +1,6 @@
 # Bubble sort
 
-*Ordering a given collection in C*
+*Ordering a collection of numbers with C*
 
 **Simply compile and run bubblesort.c**
 
