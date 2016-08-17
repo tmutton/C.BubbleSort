@@ -4,7 +4,7 @@ int main()
 {
     int numbersToSort[3] = { 4, 2, 6 };
 
-    int numLength = 3; // todo: this can be improved by getting the length of numbersToSort
+    int numLength = sizeof(numbersToSort) / sizeof(numbersToSort[0]);
 
     printf("**Bubble Sort**\n");
 
